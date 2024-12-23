@@ -1,6 +1,6 @@
 ![CI](https://github.com/ART20230129/js_ahj_hw_3_events_goblin/actions/workflows/web.yml/badge.svg)
 
-[![Build status](https://ci.appveyor.com/api/projects/status/f4pvl804dtskxa72?svg=true)](https://ci.appveyor.com/project/ART20230129/js-ac-hw-4-1-clearfunction)
+[![Build status](https://ci.appveyor.com/api/projects/status/2gsfk40g0g0sfa27?svg=true)](https://ci.appveyor.com/project/ART20230129/js-ahj-hw-6-trello)
 
 # Домашнее задание к занятию "6. Работа с файлами, DnD"
 
