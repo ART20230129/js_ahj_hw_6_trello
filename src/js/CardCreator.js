@@ -103,6 +103,7 @@ export default class CardCreator {
 
     const addBtn = closestContainer.querySelector('.add-form__submit-button');
     addBtn.addEventListener('click', this.addNewCard);
+    closeBtv.addEventListener('click', this.closeFormInput);
   }
 
   closeFormInput(event) {
@@ -147,7 +148,7 @@ export default class CardCreator {
       parentElement.appendChild(columnAdd); // возвращаем "ссылку"
       // для создания новой карточки задачи
 
-      columnAdd.addEventListener('click', this.addInput); // запускаем обработчик нажатия
+      columnAdd.addEventListener('click', this.addFormInput); // запускаем обработчик нажатия
     }
 
     this.handlers();
